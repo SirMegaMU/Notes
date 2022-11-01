@@ -13,7 +13,7 @@ the most significant bit is **negative**
 
 ## boolean algebra postulate
 
-**Same as _and_ ,_or_in logic**
+**Same as _and_ ,_or_ in logic**
 
 |      |        |
 | ---- | ------ |
@@ -21,3 +21,14 @@ the most significant bit is **negative**
 | or   | +      |
 | not  | $\neg$ |
 
+## standard form
+
+SOP and POS
+
+> Sum of Product
+
+**Minterm** only one **1** and all others are **0** , **Maxterm** reverse
+
+sum of minterm ; product of maxterm
+
+**complement** of **minterm** is **maxterm**
