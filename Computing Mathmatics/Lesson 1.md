@@ -74,3 +74,6 @@ $$
 $A \times B=\{(x,y)\ |x\in A\ and y\in B \}$
 
 Generally $A\times B\neq B\times A$
+
+
+

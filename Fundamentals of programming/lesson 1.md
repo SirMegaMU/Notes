@@ -4,7 +4,7 @@
 
 ### Variable
 
-- tyrpe
+- type
 - name (**Identifier**)
   > make it meaningful
 
@@ -13,12 +13,14 @@
 
 must be declared ,specifying its name and type
 
-use final to make it a constant 
+use `final` to make it a constant 
+
+> `final in MAX = 100`
 
 ### Operator
 
 - unpaired operators
-
+- `+ - * / %`
 
 ### Type Casting
 
