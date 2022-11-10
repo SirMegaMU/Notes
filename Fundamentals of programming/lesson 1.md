@@ -30,7 +30,6 @@ change the type of a variable
 a = (int)b
 ~~~
 
-
 ### String
 
 `+`connects two strings
