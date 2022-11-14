@@ -18,3 +18,8 @@ $\forall$ and $\exists$ consider first
 $\forall xS(x)$ negation is $\exist x\neg S(x)$
 
 $\exist xS(x)$ negation is $\forall x\neg S(x)$
+
+
+
+
+

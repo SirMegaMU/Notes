@@ -31,5 +31,19 @@ $\exist xP(x)\to P(c){\ \rm for\ some\ }c$
 
 $P(c)\to \exist xP(x)$
 
+# Proof
+
+can disprove something with counterexample, can't prove something with an example 
+
+## Example
+
+$P:m\ {\rm is\ odd\ and\ }n{\rm\ is\ even}$
+$Q:m+n{\rm\ is\ odd}$
+
+## Prove by Contradiction and prove by Contrapositive
+
+- If $P(x)\to \neg Q(x)$ is false, then $P(x)\to Q(x)$ is true
+- If $\neg Q(x)\to\neg P(x)$ is true, then $P(x)\to Q(x)$ is true
+
 
 
