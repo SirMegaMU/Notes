@@ -66,3 +66,28 @@ $$
 
 # 7 
 
+3,5,6, the value of x in $\exist xP(x)$ and $\exist xQ(x)$ may be different, but in 6 ,using  a c to replase them all is invalid, a c meets both3 and 5 may not exist.
+
+
+
+# 8
+
+$$
+\begin{align*}
+&\because \forall x(P(x)\and R(x))=true\\
+&\therefore P(x)\and R(x) = true\\
+&\therefore R(x)=true\\
+&\because\forall x(P(x)\to(Q(x)\and S(x)))=true\\
+&\therefore (P(x)\to(Q(x)\and S(x)))=true\\
+&\therefore P(x)\ and\ (Q(x)\and S(x))= false\ or\ (Q(x)\and S(x))=true\\
+&\because P(x)=true\\
+&\therefore (Q(x)\and S(x))=true\\
+&\therefore Q(x)=true\\
+&\because R(x)=true,Q(x)=true\\
+&\therefore(R(x)\and Q(x))=true\\
+&\therefore \forall x(R(x)\and S(x))\ is\ true
+\end{align*}
+$$
+
+
+
