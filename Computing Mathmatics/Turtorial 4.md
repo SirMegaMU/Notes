@@ -87,3 +87,57 @@ $$
 
 # 6
 
+$$
+\begin{align*}
+\text{if }a\ge b\ge c:&\\
+&\because min(b,c)=c,min(a,c)=c\\
+&\because min(a,b)=b,min(b,c)=c\\
+&\therefore min(a,min(b,c))=min(min(a,b),c)\\
+\text{if }a\ge c\ge b:&\\
+&\because min(b,c)=b,min(a,c)=b\\
+&\because min(a,b)=b,min(b,c)=b\\
+&\therefore min(a,min(b,c))=min(min(a,b),c)\\
+\text{if }b\ge a\ge c:&\\
+&\because min(b,c)=c,min(a,c)=c\\
+&\because min(a,b)=a,min(b,c)=c\\
+&\therefore min(a,min(b,c))=min(min(a,b),c)\\
+\text{if }b\ge c\ge a:&\\
+&\because min(b,c)=c,min(a,c)=a\\
+&\because min(a,b)=a,min(b,c)=a\\
+&\therefore min(a,min(b,c))=min(min(a,b),c)\\
+\text{if }c\ge a\ge b:&\\
+&\because min(b,c)=b,min(a,c)=b\\
+&\because min(a,b)=b,min(b,c)=b\\
+&\therefore min(a,min(b,c))=min(min(a,b),c)\\
+\text{if }c\ge b\ge a:&\\
+&\because min(b,c)=b,min(a,c)=a\\
+&\because min(a,b)=a,min(b,c)=a\\
+&\therefore min(a,min(b,c))=min(min(a,b),c)\\
+\\
+\text{Summarize }&\text{the above, }min(a,min(b,c))=min(min(a,b),c)\text{ is true}
+\end{align*}
+$$
+
+# 7
+
+$$
+\begin{align*}
+\text{Proof A: }&2^{\frac{1}{3}}\text{ is a rational number}\\
+&\because 2^{\frac{1}{3}}\in\Q\\
+&\therefore \text{set }2^{\frac1 3}=\frac{m}{n};m,n\in\Z,\frac{m}{n}\text{is simplified to lowest terms}\\
+&\therefore (2^{\frac{1}{3}})^3=2=\frac{m^3}{n^3}\\
+&\because m^3=2n^3\\
+&\therefore m^3\text{ is even, }m\text{ is also even}\\
+&\ \ \text{ let }m=2k, 2=\frac{(2k)^3}{n^3}\\
+&\therefore 2=\frac{8k^3}{n^3}\\
+&\therefore n^3=4k^3\\
+&\therefore n^3\text{ is even, }n\text{ is also even}\\
+&\because m,n\text{ are even and }\frac{m}{n}\text{ is simplified to lowest terms}\\
+&\therefore A\text{ is false}\\
+&\therefore 2^{\frac{1}{3}}\text{ is a irrational number}
+\end{align*}
+$$
+
+# 8
+
+  
