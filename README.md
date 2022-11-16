@@ -1,5 +1,5 @@
 # Notes
-Notes  for UM courses 
+Notes  for UM courses (images are not included)
 
 >  ![GitHub last commit][commit] ![GitHub repo size][size]
 
