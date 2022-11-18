@@ -182,6 +182,16 @@ $$
 
 # 10
 
+$$
+\begin{align*}
+(A\Delta B)&=(A\cup B)-(A\cap B)\\
+&=(A-A\cap B)\cup(B-A\cap B)\\
+&=(A-B)\cup(B-A)
+\end{align*}
+$$
+
+
+
 
 
 
