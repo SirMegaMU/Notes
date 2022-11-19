@@ -141,3 +141,74 @@ $$
 # 8
 
   
+$$
+\begin{align*}
+\text{When }n=1:&\\
+&n^2+1=2,2^n=2\\
+&n^2+1\geq2^n\\
+
+\text{When }n=2:&\\
+&n^2+1=5,2^n=4\\
+&n^2+1\geq2^n\\
+
+\text{When }n=3:&\\
+&n^2+1=10,2^n=8\\
+&n^2+1\geq2^n\\
+
+\text{When }n=4:&\\
+&n^2+1=17,2^n=16\\
+&n^2+1\geq2^n\\
+\therefore \text{When n is }&\text{integer and }1\leq n\leq4,\\& n^2+1\geq2
+\end{align*}
+$$
+
+
+
+
+# 9
+
+$$
+\begin{align*}
+\text{Proof A : }&\exist k_3\in\Z,(3k_1+1)(3k_2+2)=3k_3+2(k_1,k_2\in\Z)\\
+&(3k_1+1)(3k_2+2)\\
+&=9k_1k_2+6k_1+3k_2+2\\
+&=3(3k_1k_2+2k_1+k_2)+2\\
+&\because k_1,k_2\in\Z\\
+&\therefore (3k_1k_2+2k_1+k_2)\in\Z\\
+&\text{When }k_3=3k_1k_2+2k_1+k_2,\ (3k_1+1)(3k_2+2)=3k_3+2\\
+&\therefore\text{A is true}
+\end{align*}
+$$
+
+# 10
+
+$$
+\begin{align*}
+(A\Delta B)&=(A\cup B)-(A\cap B)\\
+&=(A-A\cap B)\cup(B-A\cap B)\\
+&=(A-B)\cup(B-A)
+\end{align*}
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
