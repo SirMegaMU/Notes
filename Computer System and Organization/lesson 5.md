@@ -54,6 +54,24 @@ $$
 
 # Combination Gates
 
+input and output
+
+analysis arrangement
+
 - Decoder
 - Encoder
-- De
+
+- ...
+
+## 4 Bit Adder
+
+using a full adder's C~out~ as next full adder's C~in~
+
+| Subscript $i$    | 4    | 3    | 2    | 1    |        |
+| ---------------- | ---- | ---- | ---- | ---- | ------ |
+| Input Carry      | 0    | 1    | 1    | 0    | C~1~   |
+| Augend           | 1    | 0    | 1    | 1    | A~1~   |
+| Addend           | 0    | 0    | 1    | 1    | B~1~   |
+| **Sum**          | 1    | 1    | 1    | 0    | S~1~   |
+| **Output Carry** | 0    | 0    | 1    | 1    | C~i+1~ |
+
