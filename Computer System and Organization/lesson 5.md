@@ -75,3 +75,34 @@ using a full adder's C~out~ as next full adder's C~in~
 | **Sum**          | 1    | 1    | 1    | 0    | S~1~   |
 | **Output Carry** | 0    | 0    | 1    | 1    | C~i+1~ |
 
+- Full Substractor
+
+# Code Converter BCD to Excess-3
+
+have don't care
+
+calculate W,X,Y,Z from A,B,C,D separately (4 K-maps)
+
+|      | A    | B    | C    | D    | W    | X    | Y    | Z    |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 0    | 0    | 0    | 0    | 0    | 0    | 0    | 1    | 1    |
+| 1    | 0    | 0    | 0    | 1    | 0    | 1    | 0    | 0    |
+| 2    | 0    | 0    | 1    | 0    | 0    | 1    | 0    | 1    |
+| 3    | 0    | 0    | 1    | 1    | 0    | 1    | 1    | 0    |
+| 4    | 0    | 1    | 0    | 0    | 0    | 1    | 1    | 1    |
+| 5    | 0    | 1    | 0    | 1    | 1    | 0    | 0    | 0    |
+| 6    | 0    | 1    | 1    | 0    | 1    | 0    | 0    | 1    |
+| 7    | 0    | 1    | 1    | 1    | 1    | 0    | 1    | 0    |
+| 8    | 1    | 0    | 0    | 0    | 1    | 0    | 1    | 1    |
+| 9    | 1    | 0    | 0    | 1    | 1    | 1    | 0    | 0    |
+| 10   | 1    | 0    | 1    | 0    | x    | x    | x    | x    |
+| 11   | 1    | 0    | 1    | 1    | x    | x    | x    | x    |
+| 12   | 1    | 1    | 0    | 0    | x    | x    | x    | x    |
+| 13   | 1    | 1    | 0    | 1    | x    | x    | x    | x    |
+| 14   | 1    | 1    | 1    | 0    | x    | x    | x    | x    |
+| 15   | 1    | 1    | 1    | 1    | x    | x    | x    | x    |
+
+Binary Sum $\neq$ BCD Sum
+
+BCD sum = binary Sum +0110
+
