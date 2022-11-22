@@ -1,6 +1,8 @@
 # Notes
 Notes  for UM courses (images are not included)
 
+Using Markdown with Math Syntax entend
+
 >  ![GitHub last commit][commit] ![GitHub repo size][size]
 
 [commit]: https://img.shields.io/github/last-commit/sirmegamu/Notes?logo=github
