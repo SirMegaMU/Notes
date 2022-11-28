@@ -3,12 +3,22 @@
 ## gates
 
 - Inverter
+
 - AND
+
 - OR
+
 - NAND 
+
 - NOR
-- XOR (A$\oplus$B)
-- XNOR
+
+- XOR  _gets 1 when it's different_
+
+  $A\oplus B=(A+B)(A'+B')=AB'+A'B$
+
+- XNOR  _gets 1 when it's same_
+
+  $A\odot B=(A+B')(A'+B)=AB+A'B'$
 
 
 
