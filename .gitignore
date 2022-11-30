@@ -2,3 +2,6 @@
 .tmp.driveupload
 *.ini
 */.ipy_checkpoints
+*/.idea
+*/out/
+/WIX1002 Fundamentals of programming/lab & tutorial codes/out/

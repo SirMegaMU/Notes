@@ -40,16 +40,13 @@ public class L51 {
 
 ~~~java
 public class L52 {
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
 
         int[] nums = new int[10];
         int i = 0;
-        while ( i < nums.length) {
-            int temp = (int)(Math.random()*20);
-            if (check(temp,nums)) {
+        while (i < nums.length) {
+            int temp = (int) (Math.random() * 20);
+            if (check(temp, nums)) {
                 continue;
             }
             i++;
@@ -57,8 +54,8 @@ public class L52 {
     }
 
     public static boolean check(int num, int[] nums) {
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i]==num) {
+        for (int j : nums) {
+            if (j == num) {
                 return false;
             }
         }
@@ -73,9 +70,6 @@ public class L52 {
 import java.util.Scanner;
 
 public class L53 {
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);
         int N=num.nextInt();
@@ -108,10 +102,10 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 public class L54 {
-    public static void main(String[] args) throws IOException {
-        int[] matrix = new int[3][3];
-        String tmp[]; 
-        BufferedReader bi = new BufferedReader( new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        int[][] matrix = new int[3][3];
+        String[] tmp;
+        BufferedReader bi = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("3 by 3 Matrix");
         for (int i = 0; i < 3; i++) {
             tmp = bi.readLine().split(" ");
@@ -122,7 +116,7 @@ public class L54 {
         System.out.println("After rotates 90 degrees clockwise");
         for (int i = 0; i < 3; i++) {
             for (int j = 2; j > 0; j--) {
-                System.out.print(matrix[i][j]+" ")
+                System.out.print(matrix[i][j] + " ");
             }
             System.out.println("");
         }
@@ -138,7 +132,7 @@ import java.io.InputStreamReader;
 import java.io.BufferedReader;
 
 public class L55 {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         int[] nums = new int[20];
         String[] tmp;
         System.out.println("A list of 20 random integer within 0 to 100");
@@ -192,7 +186,6 @@ public class L55 {
                 return res;
             }
         }
-        res[0] = 0;
         res[1] = -1;
         return res;
     }
