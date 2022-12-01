@@ -64,6 +64,8 @@ for (v,w,x,y,z),you can draw a chart for v'(w,x,y,z) and another one for v(w,x,y
 
 - EPI non-EPI
 
+- Don't care can be EPI or PI, but can't not be answered
+
 - POS think the value '0' not '1' in the same rule, then use De Morgan law to change SOP into POS
 
 - don't care condition
