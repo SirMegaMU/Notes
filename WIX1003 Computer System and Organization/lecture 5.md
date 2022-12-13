@@ -106,3 +106,4 @@ Binary Sum $\neq$ BCD Sum
 
 BCD sum = binary Sum +0110
 
+![image-20221213102154594](./assets/L5_1.png)
