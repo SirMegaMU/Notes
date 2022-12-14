@@ -9,7 +9,7 @@ public class T1 {
 		int num_staff = key.nextInt();
 		key.close();
 		for (int i = 0; i<num_staff;i++){
-			int ID =(int) (Math.Random()*89999+10000);
+			int ID =(int) (Math.random()*89999+10000);
 			System.out.println("Staff ID: "+ID);
 			if(ID / 1000 % 10 % 2==1 && ID / 10 %10 % 2 ==0){
 				N++;

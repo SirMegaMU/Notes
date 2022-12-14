@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public Class T2 {
+public class T2 {
 	public static void main(String[] args){
 		Scanner key = new Scanner(System.in);
 		int N=0,c=0;
@@ -12,7 +12,7 @@ public Class T2 {
 			System.out.print("Enter a factor : ");
 			int num2 = key.nextInt();
 			System.out.print(num2+" is a factor of "+num1 +"? (true/false)");
-			String ans = key.nextString();
+			String ans = key.nextLine();
 			if ((num1%num2==0 && ans=="true") || (num1 % num2 !=0 && ans == "false")){
 				System.out.println("Your answer is correct.");
 				c++;
