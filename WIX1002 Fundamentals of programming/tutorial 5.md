@@ -80,11 +80,52 @@ marks = {
 # 4
 
 ~~~java
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
+public class T54 {
+    public static void main(String[] args) throws IOException {
+        String[] str;
+        int n=0;
+        BufferedReader bi = new BufferedReader(new InputStreamReader(System.in));
+        str = bi.readLine().split(" ");
+        for (String s : str) {
+            if (s == "the") {
+                n++;
+            }
+        }
+        System.out.println(n);
+    }
+}
 ~~~
 
 # 5
 
 ~~~java
-~~~
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
+public class T55 {
+    public static void main(String[] args) throws IOException {
+        String[] str;
+        BufferedReader bi = new BufferedReader(new InputStreamReader(System.in));
+        str = bi.readLine().split(" ");
+        String[] reversed = new String[str.length];
+        for (int n = 0; n < str.length; n++) {
+            String s = str[n];
+            String r = "";
+            char c;
+            for (int i = 0; i < s.length(); i++) {
+                c = s.charAt(i);
+                r=c+r;
+            }
+            reversed[n]=r;
+        }
+        for (int i = reversed.length; i >0 ; i--) {
+            System.out.println(reversed[i]+"\n");
+        }
+    }
+}
+~~~
