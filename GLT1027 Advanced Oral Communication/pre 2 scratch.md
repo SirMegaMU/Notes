@@ -13,6 +13,6 @@ In the Russia-Ukraine War, the permanent neutral county Switzerland adopted sanc
 
 # Main point
 
--    Neutral countries should stay neutral in military forces, not in economic 
+-     Neutral countries should not stay neutral except military
 -    Neutral don’t mean do nothing at all
 -    Neutral don’t stand against mankind’s conscience
