@@ -1,10 +1,10 @@
 ## Interview Schedules
 
-| interviewee | time                |
-| ----------- | ------------------- |
-| Tan Li An   | 2022-12-18 20-35-52 |
-|             |                     |
-|             |                     |
+| interviewee   | time       |
+| ------------- | ---------- |
+| Tan Li An     | 2022-12-18 |
+| Luling Wang   | 2022-12-20 |
+| Ariq Athallah | 2022-12-20 |
 
 
 
@@ -12,16 +12,13 @@
 ## Question list
 
 - How much do you know about neutral countries?
-
 - What do you think about the the rights and duties of neutral countries?
-
 - Opinion towards neutral countries?
-
-- Opinion if your country become a neutral country?
-
-  > Malaysia
-
 - How much influence can a neutral country have on a war?
+- Opinion if your country become a neutral country?
+  > Malaysia, China, Indonesia
+
+
 
 
 ## Interview recordings
