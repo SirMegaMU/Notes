@@ -10,7 +10,7 @@
   </br></br>
   <h4>Name: %%%</h4>
   <h4>Matric NO.: %%%</h4>
-  <h4>Occurence Group: %%%</h4>
+  <h4>Occurence %%%</h4>
   <h4>Lecturer: %%%</h4>
 </div>
 
@@ -98,6 +98,8 @@ Knowing the basic history of neutral countries, Here Come to my Points.
 
 Well, according to my research, there are still a large percent of people think that Neutral Countries should stay neutral in all areas. I can say, that's a very dangerous idea and sometimes can lead to a certain death. 
 
+![image-20221221205452568](assets/image-20221221205452568.png)
+
 According to Hague Convention and all the former practise of neutrality, we can get a conclusion easily, neutral countries could not really protect themselves though just announcing themselves as neutral. Andorra claimed itself as neutral country, but it was still facing the Nazi's threat and was forced to submit to Nazi's will.
 
 And some time, things can be even worse. When the King Philip's War  between Wampanoag and Massachusetts colonists broke out, Narragansett declared their neutrality in the war and did not help any side of them. However, To the greed of those colonists, the neutrality of Narragansett did not work and soon Narragansett was destroyed after Wampanoag. 
@@ -116,6 +118,8 @@ Neutral by no means is equal to safety, only countries with the power to guarant
 
 Neutral also not means easier or less affairs, in some cases neutral countries have to do more. Just as abstain from voting is also considered as a vote, neutral also shows its attitude. And of course, once a country showed the attitude, and it has to take responsibility for it.
 
+![image-20221221205316955](assets/image-20221221205316955.png)
+
 Especially for those neutral countries near or even border with one of more of those belligerent countries and those have coast line. 
 
 For those armed neutral country, and also League of Armed Neutrality, they are still facing  the threat from belligerent countries, since these neutral countries will be a massive obstacle for belligerent countries to imply trade Interdiction.
@@ -133,6 +137,8 @@ The League successfully stopped the Great Britain from expanding the war and pro
 However, The Second League of Neutrality was not much successful at all. During the French Revolutionary War, Denmark-Norway, Prussia, Sweden and Russia formed the alliance. However,the British government, not yet anxious to preserve Russian goodwill, openly considered it a form of alliance with France and attacked Denmark, destroying parts of its fleet in the First Battle of Copenhagen and forcing it to withdraw from the League. Britain also occupied the Danish West Indies between March 1801 and April 1802.
 
 After the attack of Denmark, the rest members of the league either joined the French Revolutionary war against Britain or French and the league quickly collapse 
+
+![image-20221221205558219](assets/image-20221221205558219.png)
 
 As it's confirmed in the fifth Hague Conventions in 1907, although neutral countries don't need to face "punishment" if they were forced to break convention, yet it's still quite indistinct to judge which is "forced" or not. 
 
@@ -153,6 +159,12 @@ Well, although neutral seems take nearly no effects to influence the war, neutra
 For those major powers, it's a kind of irresponsibility to declare neutral when such thing happens. While for small countries, they do not have the ability to stop such threat, neutral is still a good choice to archive "don't be evil".
 
 ## Conclusion
+
+So, let's come to the conclusion. Neutral countries don't take massive influences in global politics and it can hardly flip the  result in war. The was some powerful league of neutrality before, but of course, not now.
+
+Still, Neutral Countries are still playing important roles to protect the peace and hold back wars. Neutral Countries are facing those facing international affairs in an active way. And also 
+
+
 
 
 
