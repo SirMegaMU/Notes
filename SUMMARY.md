@@ -1,7 +1,7 @@
 # Notes
 
 - GLT 1017 Basic Malay Language
-  * [Numbers](GLT1017%20Basic Malay Language/Numbers.md)
+  * [Numbers](GLT1017 Basic Malay Language/Numbers.md)
 - [GLT 1027 Advanced Oral Communication](GLT1027%20Advanced Oral Communication/README.md)
   * [Pre 1 Structure](GLT1027%20Advanced Oral Communication/pre-1-structure.md)
   * [Pre 2 Booklet](GLT1027%20Advanced Oral Communication/pre-2-booklet.md)
