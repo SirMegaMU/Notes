@@ -6,7 +6,7 @@ $$
 \begin{align*} T_1&=(XY)'\\ T_2&=(T_1 X)'=XY+X'\\ T_3&=(T_1 Y)'=XY+Y'\\ T_4&=(T_2 T_3 Z)'= T_1X+T_2X+Z'\\ T_5&=(T_3 Z)'=T_1Y+Z'\\ \\ F&=(T_4 T_5)'\\ &=T_1T_2Z+T_3Z\\ &=(XY)'(XY+X')Z+(XY+Y')Z\\ &=Z(XY+Y'+(X'+Y')(XY+X'))\\ &=ZXY+ZY'+ZX'+ZY'X'\\ &=XY'+Z\\ &=((XY')'Z')'\\ \end{align*}
 $$
 
-![image-20221126150825362](assets/T6\_1.png)
+![image-20221126150825362](assets/T6_1.png)
 
 | X\YZ | 00 | 01 | 11 | 10 |
 | ---- | -- | -- | -- | -- |

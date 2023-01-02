@@ -4,23 +4,23 @@
 
 ### a.
 
-![image-20221122175239361](assets/t5\_1\_a.png)
+![image-20221122175239361](assets/t5_1_a.png)
 
 ### b.
 
-![image-20221122175443269](assets/T5\_1\_b.png)
+![image-20221122175443269](assets/T5_1_b.png)
 
 ### c.
 
-![image-20221122175612139](assets/T5\_1\_c.png)
+![image-20221122175612139](assets/T5_1_c.png)
 
 ### d.
 
-![image-20221122175802747](assets/T5\_1\_d.png)
+![image-20221122175802747](assets/T5_1_d.png)
 
 ### e.
 
-![image-20221122175949294](assets/T5\_1\_e.png)
+![image-20221122175949294](assets/T5_1_e.png)
 
 ## 2
 
@@ -50,7 +50,7 @@ $$
 \begin{align*} &=(AB+A'B')(CD'+C'D)\\ &=((AB)'(A'B')')((CD')'(C'D)') \end{align*}
 $$
 
-![image-20221122181712542](assets/T5\_3.png)
+![image-20221122181712542](assets/T5_3.png)
 
 ## 4
 
@@ -65,4 +65,4 @@ $$
 \begin{align*} &=W'X'Y'Z'+WXY'Z'+W'X'YZ+WXYZ\\ &=(W'X'+WX)(Y'Z'+YZ)\\ &=(((W+X)+(W'+X'))+((Y+Z)+(Y'+Z')))' \end{align*}
 $$
 
-![image-20221122182727924](assets/T5\_4.png)
+![image-20221122182727924](assets/T5_4.png)

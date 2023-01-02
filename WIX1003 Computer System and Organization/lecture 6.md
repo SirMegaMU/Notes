@@ -1,10 +1,10 @@
 # Combinational Circuit - MSI Circuit
 
-![image-20221213102657887](assets/L6\_1.png)
+![image-20221213102657887](assets/L6_1.png)
 
 ## Decoder
 
-![image-20221213104211856](assets/L6\_2.png)
+![image-20221213104211856](assets/L6_2.png)
 
 tell you the oct of the bin input
 
@@ -12,7 +12,7 @@ tell you the oct of the bin input
 
 *   example
 
-    ![image-20221213104638645](assets/L6\_3.png)
+    ![image-20221213104638645](assets/L6_3.png)
 
     input = 1,1,1; output=1,1
 
@@ -20,7 +20,7 @@ tell you the oct of the bin input
 
 ## Encoder
 
-![image-20221213105103654](assets/L6\_4.png)
+![image-20221213105103654](assets/L6_4.png)
 
 tell you which input is 1 (oct to bin ) , if there are one more 1 in the input, the result is don’t care
 
@@ -28,12 +28,12 @@ tell you which input is 1 (oct to bin ) , if there are one more 1 in the input, 
 
 ## Demultiplexer
 
-![image-20221213110108815](assets/L6\_5.png)
+![image-20221213110108815](assets/L6_5.png)
 
 only the choosed output will give D, others are 0
 
 ## Multiplexer
 
-![image-20221213110455036](assets/L6\_6.png)
+![image-20221213110455036](assets/L6_6.png)
 
 $Z=(A S\_0' S\_1')(BS\_0'S\_1 )(CS\_0S\_1')(DS\_0S\_1)$
