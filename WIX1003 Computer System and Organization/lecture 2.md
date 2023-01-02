@@ -2,24 +2,24 @@
 
 example
 
-| 3    | -3       |
-| ---- | -------- |
-| 011  | 101      |
-|      | $-2^2+1$ |s
+| 3   | -3       |
+| --- | -------- |
+| 011 | 101      |
+|     | $-2^2+1$ |
 
 the most significant bit is **negative**
 
-> *and* , *or* , *not* gates
+> _and_ , _or_ , _not_ gates
 
 ## boolean algebra postulate
 
-**Same as _and_ ,_or_ in logic**
+**Same as **_**and**_** ,**_**or**_** in logic**
 
-|      |        |
-| ---- | ------ |
-| and  | .      |
-| or   | +      |
-| not  | $\neg$ |
+|     |        |
+| --- | ------ |
+| and | .      |
+| or  | +      |
+| not | $\neg$ |
 
 ## standard form
 
