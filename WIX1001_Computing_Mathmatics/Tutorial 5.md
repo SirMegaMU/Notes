@@ -26,7 +26,7 @@ no
 | - | --- | --- | - | --- | --- |
 | f | 0.6 | 0.8 | 1 | 1.2 | 1.4 |
 
-![T5\_1\_iv](assets/T5\_1\_iv.png)
+![T5\_1\_iv](assets/T5_1_iv.png)
 
 ## 2
 
@@ -36,12 +36,12 @@ no
 
     Not surjective
 
-    ![image-20221124192027202](assets/T5\_2\_a.png)
+    ![image-20221124192027202](assets/T5_2_a.png)
 *   b
 
     Bijective
 
-    ![image-20221124192123751](assets/T5\_2\_b.png)
+    ![image-20221124192123751](assets/T5_2_b.png)
 
 ## 3
 
@@ -125,8 +125,8 @@ $f(x)=\frac{|x|}x$
 
 ## 9
 
-![download](assets/T5\_9.png)
+![download](assets/T5_9.png)
 
-![image-20221124220915640](assets/T5\_9\(2\).png)
+![image-20221124220915640](assets/T5_9(2).png)
 
 Not Injective, Not Surjective
