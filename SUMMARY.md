@@ -1,6 +1,6 @@
-# Notes
+# Your Book Title
 
-- GLT 1017 Basic Malay Language
+- [GLT 1017 Basic Malay Language](GLT1017_Basic_Malay_Language/README.md)
   * [Numbers](GLT1017_Basic_Malay_Language/Numbers.md)
 - [GLT 1027 Advanced Oral Communication](GLT1027_Advanced_Oral_Communication/README.md)
   * [Pre 1 Structure](GLT1027_Advanced_Oral_Communication/pre-1-structure.md)
@@ -17,13 +17,20 @@
   * [Tutorial 3](WIX1001_Computing_Mathmatics/Tutorial%203.md)
   * [Tutorial 4](WIX1001_Computing_Mathmatics/Tutorial%204.md)
   * [Tutorial 5](WIX1001_Computing_Mathmatics/Tutorial%205.md)
+  * [Tutorial 6](WIX1001_Computing_Mathmatics/Tutorial%206.md)
 - [WIX 1002 Fundamentals Of Programming](WIX1002_Fundamentals_of_programming/README.md)
   * [Basic Algorithm](WIX1002_Fundamentals_of_programming/Basic%20Algorithm.md)
   * [Java Fundamentals](WIX1002_Fundamentals_of_programming/Java%20Fundamentals.md)
+  * [Lab 10](WIX1002_Fundamentals_of_programming/lab%2010.md)
   * [Lab 2](WIX1002_Fundamentals_of_programming/lab%202.md)
   * [Lab 3](WIX1002_Fundamentals_of_programming/lab%203.md)
   * [Lab 4](WIX1002_Fundamentals_of_programming/lab%204.md)
   * [Lab 5](WIX1002_Fundamentals_of_programming/lab%205.md)
+  * [Lab 6](WIX1002_Fundamentals_of_programming/lab%206.md)
+  * [Lab 7](WIX1002_Fundamentals_of_programming/lab%207.md)
+  * [Lab 8](WIX1002_Fundamentals_of_programming/lab%208.md)
+  * [Lab 9](WIX1002_Fundamentals_of_programming/lab%209.md)
+  * [Report](WIX1002_Fundamentals_of_programming/Report.md)
   * [Tutorial 1](WIX1002_Fundamentals_of_programming/tutorial%201.md)
   * [Tutorial 2](WIX1002_Fundamentals_of_programming/tutorial%202.md)
   * [Tutorial 3](WIX1002_Fundamentals_of_programming/tutorial%203.md)
@@ -38,6 +45,8 @@
   * [Lab 1](WIX1003_Computer_System_and_Organization/lab%201.md)
   * [Logic Gates](WIX1003_Computer_System_and_Organization/Logic%20Gates.md)
   * [Sequential Circuit](WIX1003_Computer_System_and_Organization/Sequential%20Circuit.md)
+  * [Tmp](WIX1003_Computer_System_and_Organization/tmp.md)
+  * [Traffic Light](WIX1003_Computer_System_and_Organization/Traffic%20Light.md)
   * [Tutorial 1](WIX1003_Computer_System_and_Organization/tutorial%201.md)
   * [Tutorial 2](WIX1003_Computer_System_and_Organization/tutorial%202.md)
   * [Tutorial 4](WIX1003_Computer_System_and_Organization/tutorial%204.md)
