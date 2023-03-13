@@ -1,0 +1,1 @@
+![](/home/megamu/Documents/GitHUb/Notes/WIX1003_Computer_System_and_Organization/assets/Flip-Flop.png)
