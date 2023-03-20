@@ -36,5 +36,5 @@ a generic _class/interface_ used
 
 ## Wildcard Generic Types 
 
-
+## Restrictions
 
