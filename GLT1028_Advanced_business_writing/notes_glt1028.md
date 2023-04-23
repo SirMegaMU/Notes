@@ -28,3 +28,27 @@ avoid these:
 - Excessive use Passive
 - Verbosity and Outdated Expressions
 
+
+
+### Objective
+
+- Types of letters
+- Format of everyday letters
+  - Fully blocked format
+  - Open punctuation
+- Structure of everyday letters
+  - Introduction
+  - Details
+  - Action
+  - Close
+
+
+
+Types of everyday letters
+
+- request
+- confirmation
+- transmittal
+- acceptance
+- personal
+
