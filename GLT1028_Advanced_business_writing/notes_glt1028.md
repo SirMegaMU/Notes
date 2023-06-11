@@ -52,3 +52,9 @@ Types of everyday letters
 - acceptance
 - personal
 
+## Report
+
+- Informational report
+- Analytical report
+- Market research report
+- Progress report
