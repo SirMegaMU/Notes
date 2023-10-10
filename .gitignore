@@ -10,3 +10,6 @@
 .obsidian/*
 /node_modules
 /package-lock.json
+*.class
+*.yml
+*.iml
