@@ -11,7 +11,7 @@ Data:
 Infomation:
 
 - processing data
-- meaning sof data
+- meanings of data
 - accurate, relenvant, timely
 
 ## Database & DBMS
