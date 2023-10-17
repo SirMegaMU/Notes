@@ -127,4 +127,3 @@ Knowledge:
 1. Create a spreadsheet using the template shown in Table 1.0 above and enter required information
 2. Enter the class time table of two of your classmates into the same spreadsheet
 3. Discuss the redundancies and anomalies caused by this design
-
