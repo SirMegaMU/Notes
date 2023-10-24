@@ -2,7 +2,7 @@
 
 ## Modules
 
-### General module 
+### General module
 
 login, register, etc
 
@@ -14,9 +14,9 @@ share your garden & yards
 
 - rating & comments
 
-and explore other's garden & yards 
+and explore other's garden & yards
 
-**Public Garden & Yard**
+Public Garden & Yard
 
 ### Tree planting module
 
@@ -26,7 +26,7 @@ watering reminder
 
 tracker
 
-User shared tutorials (User content) 
+User shared tutorials (User content)
 
 ### Plant library module
 
@@ -44,17 +44,17 @@ sponsor beautiful garden / yard
 
 donate facilities for individuals / organizations
 
-funds tracking 
+funds tracking
 
 ### Events module
 
 host & attend tree planting events
 
-announcement  & notification 
+announcement  & notification
 
 rate & comment
 
-attendance & popularity analysis 
+attendance & popularity analysis
 
 ## Scope
 
